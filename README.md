@@ -38,37 +38,10 @@
 
 ---
 
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/zarinanjumanto/project1" target="_blank">
-    <img src="https://raw.githubusercontent.com/zarinanjumanto/project1/main/screenshot.png" alt="Portfolio Website" width="200" style="margin:10px;" />
-    <br>Portfolio Website
-  </a>
-  <a href="https://github.com/zarinanjumanto/project2" target="_blank">
-    <img src="https://raw.githubusercontent.com/zarinanjumanto/project2/main/screenshot.png" alt="Todo App" width="200" style="margin:10px;" />
-    <br>Todo App with React
-  </a>
-  <a href="https://github.com/zarinanjumanto/project3" target="_blank">
-    <img src="https://raw.githubusercontent.com/zarinanjumanto/project3/main/screenshot.png" alt="Full-Stack Blog" width="200" style="margin:10px;" />
-    <br>Full-Stack Blog Platform
-  </a>
-</p>
-
-> ⚠️ **Tip:** Replace `screenshot.png` with actual project images for clarity.
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarinanjumanto&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarinanjumanto&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarinanjumanto&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zarinanjumanto&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarinanjumanto&theme=tokyonight"/>
 </p>
 
 ---
