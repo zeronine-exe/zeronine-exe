@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zarinanjumanto" alt="zarinanjumanto" /></a> </p>
 
+- 🎓 BSc Student
+
+- 💻 Computer Science
+
+- 🏛️ University of South Wales 
+
 - 💡 Learning **full-stack development**
 
 - 💬 Ask me about **tech, code, and my journey studying BCS at USW**
