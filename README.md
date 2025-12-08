@@ -59,11 +59,14 @@ Outside of coding, I enjoy activities that boost creativity and analytical skill
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats-kappa-virid.vercel.app/api?username=zarinanjumanto&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=zarinanjumanto&theme=tokyonight" />
+  <img src="https://img.shields.io/github/followers/zarinanjumanto?label=Followers&style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/zarinanjumanto?label=Stars&style=for-the-badge" alt="Stars"/>
+  <img src="https://img.shields.io/github/last-commit/zarinanjumanto/zarinanjumanto?style=for-the-badge" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/languages/top/zarinanjumanto?style=for-the-badge" alt="Top language"/>
 </p>
+
 
 ---
 
