@@ -61,8 +61,8 @@ Outside of coding, I enjoy activities that boost creativity and analytical skill
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarinanjumanto&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarinanjumanto&theme=tokyonight"/>
+  <img src="https://github-readme-stats-kappa-virid.vercel.app/api?username=zarinanjumanto&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=zarinanjumanto&theme=tokyonight" />
 </p>
 
 ---
