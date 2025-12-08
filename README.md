@@ -61,8 +61,8 @@ Outside of coding, I enjoy activities that boost creativity and analytical skill
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://your-deploy.vercel.app/api?username=zarinanjumanto&show_icons=true&theme=tokyonight" />
-  <img src="https://your-deploy.vercel.app/api/top-langs/?username=zarinanjumanto&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-kappa-virid.vercel.app/api?username=zarinanjumanto&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=zarinanjumanto&theme=tokyonight" />
 </p>
 
 ---
@@ -70,7 +70,6 @@ Outside of coding, I enjoy activities that boost creativity and analytical skill
 ## 📫 Contact Me
 <p align="center">
   ✉️ Email: <a href="mailto:zarinanjumanto@gmail.com">zarinanjumanto@gmail.com</a>  
-  🌐 Portfolio/CV: <a href="https://anto-cv-uk.tiiny.site/">anto-cv-uk.tiiny.site</a>
 </p>
 
 ---
