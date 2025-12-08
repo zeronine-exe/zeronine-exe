@@ -92,7 +92,6 @@ Outside of coding, I enjoy activities that boost creativity and analytical skill
 <p align="center" style="margin-top: 15px;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zarinanjumanto&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com/?user=zarinanjumanto&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zarinanjumanto&layout=compact&theme=tokyonight" />
 </p>
 
 ---
