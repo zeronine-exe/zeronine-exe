@@ -1,11 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=0CF7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Zarin+Anjum+Anto+👋;Aspiring+Computer+Science+Engineer;Frontend+%26+Full-Stack+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  🌈 Hi, I'm <span style="color:#00d4ff;">Zarin Anjum Anto</span> 👋
+</h1>
+
+<h3 align="center">
+  Aspiring Computer Science Engineer • Frontend & Full-Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zarinanjumanto&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=zarinanjumanto&label=Profile%20views&color=6A5ACD&style=flat-square" />
 </p>
-
 
 ---
 
