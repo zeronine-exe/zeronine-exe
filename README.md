@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌈 Hi, I'm <span style="color:#00d4ff;">Zarin Anjum Anto</span> 👋
+   Hi, I'm <span style="color:#00d4ff;">Zarin Anjum Anto</span> 👋
 </h1>
 
 <h3 align="center">
