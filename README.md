@@ -1,21 +1,15 @@
 <div align="center">
 
-  <!-- Name Banner -->
-  <img 
-    src="https://img.shields.io/badge/Hi%2C%20I'm%20Zarin%20Anjum%20Anto-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000"
-    style="width: 90%; max-width: 700px;"
-  />
+  <!-- Big Name Banner -->
+  <img src="https://img.shields.io/badge/Hi%2C%20I'm%20Zarin%20Anjum%20Anto-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000&cacheSeconds=3600" height="50"/>
 
   <!-- Subtitle -->
-  <h2 style="font-size: 28px; margin-top: 20px;">
+  <h2 style="font-size: 28px; margin-top: 15px;">
     Aspiring Computer Science Engineer • Frontend & Full-Stack Developer
   </h2>
 
   <!-- Profile Views -->
-  <img 
-    src="https://komarev.com/ghpvc/?username=zarinanjumanto&label=Profile%20Views&color=1e90ff&style=flat-square" 
-    style="margin-top: 15px;"
-  />
+  <img src="https://komarev.com/ghpvc/?username=zarinanjumanto&label=Profile%20Views&color=1e90ff&style=for-the-badge" height="30"/>
 
 </div>
 
