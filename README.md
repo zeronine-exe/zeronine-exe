@@ -1,10 +1,11 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/Hi%2C%20I'm%20Zarin%20Anjum%20Anto-000000?style=for-the-badge&logo=github&logoColor=white" />
+<h1 align="center">Hi, I'm Zarin Anjum Anto <img src="https://em-content.zobj.net/source/apple/354/waving-hand_1f44b.png" width="35"/></h1>
 
-  <h3>Aspiring Computer Science Engineer | Frontend & Full-Stack Developer</h3>
+<h3 align="center">Aspiring Computer Science Engineer | Frontend & Full-Stack Developer 🌐</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=zarinanjumanto&label=Profile%20views&color=1e90ff&style=flat-square" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zarinanjumanto&label=Profile%20views&color=ff69b4&style=flat" />
+</p>
+
 
 
 ---
