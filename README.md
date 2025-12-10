@@ -102,6 +102,8 @@ Outside of coding, I enjoy activities that boost creativity and analytical skill
 
 <p align="center" style="margin-top: 10px;">
   ✉️ Email: <a href="mailto:zarinanjumanto@gmail.com">zarinanjumanto@gmail.com</a>  
+  🌐 Portfolio/CV: 
+  <a href="./anto_cv.pdf" target="_blank">View my CV (PDF)</a>
 </p>
 
 ---
